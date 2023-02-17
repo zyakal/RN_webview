@@ -8,6 +8,11 @@
     ],
     "android": {
       "package": "com.zyakal.myproject"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4bb93170-dcf5-4bed-8a20-f01b2c163bd5"
+      }
     }
   }
 }
